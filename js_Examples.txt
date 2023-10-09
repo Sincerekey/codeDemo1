@@ -1,0 +1,28 @@
+ <!--> Option 1- window.location.replace </!-->
+
+ JS- 
+  window.location.replace(
+                "https://www.google.com/search?q=" + searched);
+
+
+
+
+
+
+
+<!--> Option 2- window.location.href= </!-->
+
+JS- 
+            window.location.href =
+                "https://www.google.com/search?q=" + searched;
+        
+
+
+
+
+<!--> Option 3- window.open("url",'_self'); </!-->
+
+
+JS- 
+  window.open(
+                "https://www.google.com/search?q=" + searched,'_self');
