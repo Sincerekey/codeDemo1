@@ -26,3 +26,5 @@ JS-
 JS- 
   window.open(
                 "https://www.google.com/search?q=" + searched,'_self');
+
+//git check
